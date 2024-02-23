@@ -1,0 +1,36 @@
+.contact-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #87ceeb; 
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #28a745; 
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+  }
+  

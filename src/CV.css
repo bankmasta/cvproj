@@ -1,0 +1,28 @@
+/* CV.css */
+.cv-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  
+  .cv-section {
+    margin-bottom: 20px;
+  }
+  
+  .cv-section h3 {
+    color: #333;
+  }
+  
+  .cv-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cv-section li {
+    margin-bottom: 5px;
+    color: #555;
+  }
+  

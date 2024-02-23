@@ -1,0 +1,1 @@
+<Route path="/counter" element={<Counter />} /> {/* Kan inte få den att funka måste skriva manuellt /Counter för att komma till den här sidan */}

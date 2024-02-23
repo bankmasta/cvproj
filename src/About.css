@@ -1,0 +1,19 @@
+
+
+
+.about-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #87ceeb; 
+  }
+  
+  h2 {
+    color: #333; 
+  }
+  
+  p {
+    color: #555; 
+    font-size: 16px; 
+    line-height: 1.6; 
+  }
+  
